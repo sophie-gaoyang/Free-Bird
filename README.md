@@ -1,6 +1,10 @@
 # Free Bird
 
-Free Bird is a **web app that helps you plan financial independence (FIRE)**—especially if you’re open to **living in different cities** around the world. You enter your income, savings, and goals; the app projects your money over time, uses **real cost-of-living data** for many cities, and uses **optional AI** to explain tradeoffs in plain language.
+Free Bird is a web app that helps you plan **financial independence (FIRE)** across the world.
+
+- **How much** — Want the number that means you’re fully free? Fill in a few figures and get one Freedom Number.
+- **How soon** — Moving cities can pull that year forward by a decade. Free Bird prices **geo-arbitrage** (地理套利): same lifestyle, cheaper city, you stop working sooner.
+- **Where** — Want to be out by 40? See how much you need — and which city actually gets you there.
 
 **Live app:** [free-bird-gamma.vercel.app](https://free-bird-gamma.vercel.app)
 
